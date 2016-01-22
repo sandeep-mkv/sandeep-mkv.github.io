@@ -1,0 +1,2 @@
+# Ignore _site that Jekyll automatically generates each time you commit
+_site/
