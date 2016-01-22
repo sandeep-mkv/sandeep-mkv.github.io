@@ -1,2 +1,3 @@
 name: Sandeep Venugopal
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
