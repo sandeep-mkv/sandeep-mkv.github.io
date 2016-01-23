@@ -1,2 +1,3 @@
-# Ignore _site that Jekyll automatically generates each time you commit
-_site/
+_site
+.sass-cache
+.jekyll-metadata
